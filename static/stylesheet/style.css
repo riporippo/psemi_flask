@@ -68,3 +68,6 @@ h2.title:before {
 .button a:hover:after {
     border-color: #FFF;
 }
+label{
+    font-style: italic;
+}
